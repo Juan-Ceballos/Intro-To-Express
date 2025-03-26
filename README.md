@@ -1,7 +1,9 @@
 # Intro to Express
 
+
 ## Overview
 This repository contains introductory example for learning Express.js, a popular web application framework for Node.js.
+
 
 ## Prerequisites
 
@@ -13,9 +15,11 @@ This repository contains introductory example for learning Express.js, a popular
 
 git clone, cd to project, install dependencies(npm install)
 
+
 ## Running the Application'
 
 npm start
+
 
 ## Key Concepts
 
@@ -24,6 +28,7 @@ npm start
 - Request and response Handling
 - Basic API development
 
+
 ## Learning Objectives
 
 - Understand Express.js fundamentals
@@ -31,12 +36,14 @@ npm start
 - Handle HTTP requests and responses
 - Implement basic routing strategies
 
-  ## Technologies Used
+
+## Technologies Used
 
 - Express.js
 - Node.js
 - JS
 
-  ## Author
 
-  Juan Ceballos
+## Author
+
+Juan Ceballos
